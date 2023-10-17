@@ -3,8 +3,7 @@
 // Path: pages/about.js
 import Head from 'next/head'
 import Link from 'next/link'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+import styles from '../styles/home.module.css'
 
 export default function About() {
     return (
@@ -19,7 +18,7 @@ export default function About() {
             This is the about page.
             </p>
             <Link href="/">
-            <a>Go home</a>
+                Go home
             </Link>
         </main>
         </div>
