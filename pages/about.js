@@ -9,7 +9,7 @@ export default function About() {
     return (
         <div className={styles.container}>
         <Head>
-            <title>About</title>
+            <title>About me</title>
             <link rel="icon" href="/favicon.ico" />
         </Head>
         <main className={styles.main}>
